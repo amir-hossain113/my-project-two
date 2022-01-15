@@ -212,7 +212,7 @@ footer a{
         margin-left: 0;
     }
     .container h2{
-        margin-left: 140px;
+        margin-left: 8px;
     }
     .blog-and-image{
         display: inline-block;
@@ -265,18 +265,14 @@ footer a{
         margin-left: 50px;
     }
     .container h2{
-        margin-left: 302px;
+        margin-left: 11px;
     }
     .blog-and-image{
         display: inline-block;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-left: 40px;
-    }
-    .blog-and-image{
-        display: flex;
-        flex-direction: column;
+        margin-left: 20px;
     }
     .blog-image{
         margin-top: 50px;
