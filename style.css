@@ -18,10 +18,11 @@ body{
 .navbar h3{
     font-size: 24px;
     color: #3A3A3A;
+    margin-left: 54px;
 }
 nav{
     text-align: right;
-    margin-left: 370px;
+    margin-left: 410px;
 }
 nav ul li{
     list-style: none;
@@ -35,14 +36,14 @@ nav ul li a{
     margin-right: 25px;
 }
 hr{
-    margin-left: 40px;
-    margin-right: 142px;
+    margin-left: 90px;
+    margin-right: 120px;
 }
 .logos{
     padding: 30px;
     display: flex;
     column-gap: 50px;
-    margin-left: 40px;
+    margin-left: 90px;
 }
 .img-one{
     right: 0;
@@ -61,12 +62,11 @@ hr{
 .blog-and-image{
     display: flex;
     margin: 50px;
-    margin-right: 120px;
-    margin-left: 0px;
+    margin-right: 180px;
 }
 .blog-title{
     margin-top: 30px;
-    margin-right: 133px;
+    margin-right: 140px;
     padding-right: 40px;
 }
 .blog-title h1{
@@ -93,7 +93,7 @@ hr{
     height: 374px;
 }
 .container h2{
-    margin-left: 450px;
+    margin-left: 511px;
 }
 .products{
     width: 329px;
@@ -104,6 +104,7 @@ hr{
     justify-content: space-between;
     align-items: center;
     padding: 30px;
+    margin-left: 45px;
 }
 .product{
     background: #FFFFFF;
@@ -146,14 +147,14 @@ span{
 .btn-seemore{
     color: #E02C6D;
     text-decoration: none;
-    margin-left: 987px;
+    margin-left: 1030px;
 }
 .contact-form{
     width: 500px;
     background-color: #b892f7;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     transition: translate(-50%, -50%);
-    margin: 30px 272px;
+    margin: 30px 340px;
 }
 form{
     margin: 20px;
@@ -231,7 +232,7 @@ footer a{
         display: inline;
         flex-direction: column;
         width: 24px;
-        margin: 30px 20px;
+        margin: 30px 5px;
 
     }
     hr{
